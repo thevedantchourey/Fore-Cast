@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Fore°Cast</string>
+    <string name="icon_content">icon_contentDescription</string>
+    <string name="day">Today</string>
+    <string name="tempValue">%s°C</string>
+    <string name="temp">%s</string>
+    <string name="min">Min: %s°C</string>
+    <string name="max">Max: %s°C</string>
+    <string name="day2">Day</string>
+    <string name="date">Date</string>
+    <string name="text">text</string>
+    <string name="description">content</string>
+    <string name="title1">Humidity</string>
+    <string name="title1value">%s</string>
+    <string name="title2value">%s m/s</string>
+    <string name="title2">Wind Speed</string>
+    <string name="title3value">%s</string>
+    <string name="title3">Condition</string>
+    <string name="title5value">%s</string>
+    <string name="title5">Sunset</string>
+    <string name="title4">Sunrise</string>
+    <string name="title4value">%s</string>
+    <string name="title6">Sea</string>
+    <string name="title6value">%s hPa</string>
+</resources>
