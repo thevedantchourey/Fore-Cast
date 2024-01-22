@@ -1,6 +1,6 @@
 Android Project Coded by Vedant.R.J.Chourey
 
-Fore-Cast
+Fore°Cast
 
 This my first Android Project using weather REST API.
 Fore°Cast is an amazing weather app that uses the Weather REST API to forecast weather reports for any location in the world. With Weather REST, you can:
