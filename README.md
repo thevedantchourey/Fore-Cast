@@ -1,3 +1,5 @@
+Android Project Coded by Vedant.R.J.Chourey
+
 Fore-Cast
 
 This my first Android Project using weather REST API.
