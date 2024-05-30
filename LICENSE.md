@@ -18,4 +18,4 @@ This project is not intended for production use, and the author assumes no liabi
 
 ---
 
-**Note**: Customize the terms above to match your specific intentions and preferences. Always consult legal advice if you have any concerns about licensing or intellectual property rights.
+**Note**: All Rights for this ***Project*** are 'Reserved' to the owner of this ***Repository***
